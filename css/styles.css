@@ -93,6 +93,10 @@ p {
   cursor: pointer;
 }
 
+.submit-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
 @media (max-width: 376px) {
   .card {
     max-width: 90%;

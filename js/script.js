@@ -10,6 +10,7 @@ ratingBtns.forEach((button) => {
       btn.classList.remove("active");
     });
     button.classList.add("active");
+    submit.disabled = false;
   });
 });
 
@@ -17,5 +18,5 @@ submit.addEventListener("click", (e) => {
   e.preventDefault();
   rating.classList.add("hidden");
   thankYou.classList.remove("hidden");
-  selectedRating.textContent += `${document.querySelector(".active").textContent}`;
+  selectedRating.textContent = `You selected ${document.querySelector(".active").textContent} out of 5`;
 });
