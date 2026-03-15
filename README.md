@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL]: (https://www.frontendmentor.io/solutions/interactive-rating-component-solution-F3t0BmAKuO)
-- [Live Site URL]: (https://aoseni1.github.io/interactive-rating-component-main-2/)
+- [Solution URL] (https://www.frontendmentor.io/solutions/interactive-rating-component-solution-F3t0BmAKuO)
+- [Live Site URL] (https://aoseni1.github.io/interactive-rating-component-main-2/)
 
 ## My process
 
