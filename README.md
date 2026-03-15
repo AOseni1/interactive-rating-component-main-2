@@ -31,7 +31,7 @@ Users should be able to:
 ### Screenshot
 
 ![Base Card](./images/card.png)
-![Thank You](./images/thankyou.png.png)
+![Thank You](./images/thankyou.png)
 
 ### Links
 
