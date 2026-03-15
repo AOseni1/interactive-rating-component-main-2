@@ -18,5 +18,5 @@ submit.addEventListener("click", (e) => {
   e.preventDefault();
   rating.classList.add("hidden");
   thankYou.classList.remove("hidden");
-  selectedRating.textContent = `You selected ${document.querySelector(".active").textContent} out of 5`;
+  selectedRating.textContent = `${document.querySelector(".active").textContent}`;
 });
